@@ -1,0 +1,31 @@
+#header{
+background-color:#0B1D51;
+color:white;
+margin-top:-20px;
+padding:10px;
+}
+
+#main{
+background-color: #6BAB90;
+padding-top:20px;
+padding-bottom: 20px;
+}
+
+#footer{
+    background-color: #458d45;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    padding:10px;
+    height:35px;
+    color:white;
+    font-size:17px;
+}
+
+body{
+    font-family: 'Inconsolata', monospace;
+}
+
+h1{
+text-shadow: 5px 5px 5px #4767c7;
+}
